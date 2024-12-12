@@ -1,0 +1,98 @@
+.container{
+        
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: auto;
+    width: 100%; /* adjust the width to your liking */
+    border: 1px solid #ccc; /* add a border */
+    padding: 20px; /* add some padding */
+    margin: 0 auto; /* center horizontally */
+    background-color: rgb(235, 226, 226);
+  }
+
+ 
+  .carousel-inner > .carousel-item > img {
+    object-fit: contain;
+    object-position: center;
+    height: 600px;
+    width: 600px;
+  }
+
+  main{
+    background-color:gainsboro;
+  }
+
+
+  .home-how-it-works h2 {
+    text-align: center;
+    color: #362b13;
+    font-size: 3.0em;
+    line-height: 0.8em;
+    font-family: 'SignPainter-HouseScript', 'signpainter', 'Brush Script MT', Arial, sans-serif;
+    padding-bottom: 0.5em;
+    margin-top: 0.125em;
+}
+
+
+
+.row{
+    background-color: gainsboro;
+}
+
+.Register{
+    
+    
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: auto;
+    width: 300px; /* adjust the width to your liking */
+    border: 1px solid #ccc; /* add a border */
+    padding: 20px; /* add some padding */
+    margin: 0 auto; /* center horizontally */
+    /* background-color: ; */
+    align-content: center;
+    background-color: aliceblue;
+  }
+
+  .Register > form >input button {
+    align-content: center;
+    align-items: center;
+  }
+   
+
+  .event{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: auto;
+    width: 400px; /* adjust the width to your liking */
+    border: 1px solid #ccc; /* add a border */
+    padding: 20px;     /*add some padding   */
+    margin: auto; /* center horizontally */
+    /* background-color: ; */
+    align-content: center;
+    background-color: aliceblue;
+    
+  
+  
+  }
+    
+  #shopping-cart{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: auto;
+    width: 400px; /* adjust the width to your liking */
+    border: 1px solid #ccc; /* add a border */
+    padding: 20px;     /*add some padding   */
+    margin: auto; /* center horizontally */
+    /* background-color: ; */
+    align-content: center;
+    background-color: aliceblue;
+
+  }
+
+    
+  
