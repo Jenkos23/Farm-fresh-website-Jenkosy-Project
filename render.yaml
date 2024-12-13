@@ -4,4 +4,4 @@ services:
     name: Farm-fresh-website-Jenkosy-static-Project
     env: static
     staticSite: true
-    publishDir: ./Farmfresh-JenProject.html   # or the directory containing your static files 
+    publishDir: ./index.html   # or the directory containing your static files 
