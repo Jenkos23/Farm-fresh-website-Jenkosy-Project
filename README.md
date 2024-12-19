@@ -26,7 +26,7 @@ MyWebsite/
 └── README.md               # Project documentation (this file)
 ```
 
-##Deploy 
+## Deploy 
 The webpage was deployed with Render link: https://farmfresh-website-jenkosy-project.onrender.com
 
 ## Features
